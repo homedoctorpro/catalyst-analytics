@@ -39,16 +39,17 @@
  .head{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
 </style></head><body><div class="wrap">
 <h1>Catalyst Pet — Shelter Analytics</h1>
-<p class="sub">Data snapshot as of <b>2026-06-17</b> · source <code>catalystpet.cvasossyi9za.eu-west-1.rds.amazonaws.com:5432/catalyst</code></p>
+<p class="sub">Data snapshot as of <b>2026-06-16</b> · source <code>localhost:5433/catalyst</code></p>
 
 <div class="grid kpis">
   <div class="card kpi"><div class="n">119</div><div class="l">Live shelters (ACCEPTED)</div><div class="s">10 waiting · 1 blocked</div></div>
   <div class="card kpi"><div class="n" style="color:var(--green)">46</div><div class="l">Active (≤90d, any channel)</div><div class="s">sent invites recently</div></div>
   <div class="card kpi"><div class="n" style="color:var(--amber)">48</div><div class="l">Lapsed</div><div class="s">were active, now quiet</div></div>
   <div class="card kpi"><div class="n" style="color:var(--red)">25</div><div class="l">Never activated</div><div class="s">0 invites, either channel</div></div>
-  <div class="card kpi"><div class="n">12,789</div><div class="l">Total invites</div><div class="s">2,095 redeemed · 16.4%</div></div>
-  <div class="card kpi"><div class="n">1,639</div><div class="l">Cats adopted in 2026</div><div class="s">online enrollments, partial yr</div></div>
+  <div class="card kpi"><div class="n">12,788</div><div class="l">Total invites</div><div class="s">2,095 redeemed · 16.4%</div></div>
+  <div class="card kpi"><div class="n">1,614</div><div class="l">Cats adopted in 2026</div><div class="s">online enrollments, partial yr</div></div>
   <div class="card kpi"><div class="n">~7,052</div><div class="l">Est. cats at live shelters</div><div class="s">from 115/119 reported</div></div>
+  <div class="card kpi"><div class="n">$55.5</div><div class="l">$ per redemption (all-in)</div><div class="s">$19.36 donation + litter allocation</div></div>
 </div>
 
 <div class="card" style="margin-top:14px">
@@ -56,7 +57,7 @@
   <div class="chanwrap">
     <div class="chan" style="border-top:3px solid var(--accent)">
       <h3><span class="dot" style="background:var(--accent)"></span>Online invites (emailed adopter codes)</h3>
-      <div class="big">10,096</div>
+      <div class="big">10,095</div>
       <div class="note">1,803 redeemed · <b style="color:var(--green)">17.9%</b> redemption rate · since 2024-09</div>
     </div>
     <div class="chan" style="border-top:3px solid var(--purple)">
@@ -66,7 +67,7 @@
     </div>
     <div class="chan" style="border-top:3px solid var(--green);background:#1b2330">
       <h3><span class="dot" style="background:var(--green)"></span>Total (Online + QR)</h3>
-      <div class="big">12,789</div>
+      <div class="big">12,788</div>
       <div class="note"><b>2,095</b> redeemed · <b style="color:var(--green)">16.4%</b> redemption rate · all invites combined</div>
     </div>
   </div>
@@ -98,7 +99,7 @@
     <div class="card kpi"><div class="n">$4,439</div><div class="l">Litter run-rate / month</div><div class="s">~85 actual shipments/mo (trailing 6)</div></div>
     <div class="card kpi"><div class="n">$1,652</div><div class="l">Donations run-rate / month</div><div class="s">trailing-6-mo avg redemptions</div></div>
     <div class="card kpi"><div class="n">$55.5</div><div class="l">Fully-loaded cost / redemption</div><div class="s">total ÷ redemptions</div></div>
-    <div class="card kpi"><div class="n">$11.52</div><div class="l">Cost / cat enrolled</div><div class="s">total ÷ 10,096 enrollments</div></div>
+    <div class="card kpi"><div class="n">$11.52</div><div class="l">Cost / cat enrolled</div><div class="s">total ÷ 10,095 enrollments</div></div>
     <div class="card kpi"><div class="n">85/119</div><div class="l">Shelters with a subscription</div><div class="s">34 live without (29%)</div></div>
   </div>
   <p class="note">Assumptions (editable): litter bags fill 20 lb ($5.94) then a 10 lb ($3.36) remainder, plus per-shipment shipping ($16.39–$46.22 by weight); avg $51.68/shipment. Redemption $19.36 = $3.36 bag + $16 ship. Each shipment costed at its shelter's subscription weight.</p>
@@ -357,7 +358,7 @@
 
 <div class="row">
   <div class="card"><h2>Cats adopted per year</h2><canvas id="yearChart"></canvas>
-    <p class="note">A cat is counted when its adopter is enrolled online (Adopters). 2026 is partial (through 2026-06-17). QR codes are anonymous and excluded here.</p></div>
+    <p class="note">A cat is counted when its adopter is enrolled online (Adopters). 2026 is partial (through 2026-06-16). QR codes are anonymous and excluded here.</p></div>
   <div class="card"><h2>Shelter activity (live shelters)</h2><canvas id="bucketChart"></canvas>
     <p class="note">Counts invites from <b>either</b> channel. Active = invited in last 90 days. Lapsed = invited before but not since. Never = 0 invites ever.</p></div>
 </div>

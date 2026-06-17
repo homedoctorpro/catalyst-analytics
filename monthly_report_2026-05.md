@@ -1,5 +1,5 @@
 # Catalyst Pet — Monthly Shelter Report
-**Snapshot:** 2026-06-17  ·  **Reporting month:** 2026-05 (most recent completed month)
+**Snapshot:** 2026-06-16  ·  **Reporting month:** 2026-05 (most recent completed month)
 
 ## Headline
 - **Live shelters:** 119 (46 active · 48 lapsed · 25 never activated — counting either invite channel)
@@ -9,8 +9,8 @@
 - **Redemptions in 2026-05:** 59 (36 online · 23 QR)  (-8% vs 2026-04)
 - **Redemptions vs invites in 2026-05:** 7% (redemptions can lag the month an invite was sent)
 - **Overall redemption rate (all-time):** 16.4% — Online 17.9% · QR 10.8%
-- **Cats adopted in 2026 (YTD, online enrollments):** 1,639
-- **All-time invites:** 12,789 (10,096 online + 2,693 QR) · 2,095 redeemed
+- **Cats adopted in 2026 (YTD, online enrollments):** 1,614
+- **All-time invites:** 12,788 (10,095 online + 2,693 QR) · 2,095 redeemed
 - **Estimated cats at live shelters:** ~7,052 (from 115/119 reporting ranges)
 - **⚠ Worst offenders:** 12 shelters have received $300+ of free litter but send few/no invites (see section below). Separately, 13 live shelters have sent **0 invites ever** while consuming ~$10,052 of free litter.
 
@@ -86,7 +86,7 @@ _…and 21 more (full list on the dashboard)._
 |---|---|--:|--:|--:|--:|--:|---|
 | Paws and Whiskers Cat Shelter | Ohio | 736 | 40 | 776 | 88 | 11.3% | 2026-05-19 |
 | Cups and Claws Cat Lounge | Virginia | 287 | 373 | 660 | 129 | 19.5% | 2026-05-12 |
-| Roanoke Valley SPCA | Virginia | 553 | 1 | 554 | 86 | 15.5% | 2026-06-17 |
+| Roanoke Valley SPCA | Virginia | 552 | 1 | 553 | 86 | 15.6% | 2026-06-16 |
 | Project Meow | Pennsylvania | 523 | 5 | 528 | 69 | 13.1% | 2026-06-03 |
 | The Sanctuary at Haafsville | Pennsylvania | 74 | 400 | 474 | 72 | 15.2% | 2026-05-15 |
 | Marion County Humane Society | West Virginia | 232 | 218 | 450 | 82 | 18.2% | 2026-05-26 |
@@ -98,16 +98,16 @@ _…and 21 more (full list on the dashboard)._
 ## Lapsed — re-engagement targets (highest historical volume, now quiet)
 | Shelter | State | Total invites | Last invite | Days ago |
 |---|---|--:|---|--:|
-| Toledo Humane Society | Ohio | 1105 | 2025-06-03 | 379 |
-| Full of Cattitude | Florida | 550 | 2026-02-17 | 120 |
-| Pet Pride of NY | New York | 356 | 2025-07-11 | 341 |
-| Little Mews Rescue | Michigan | 307 | 2026-02-14 | 123 |
-| Heavenly Paws Shelter, Inc | Pennsylvania | 263 | 2025-02-08 | 494 |
-| Three Little Pitties | Texas | 213 | 2025-08-01 | 320 |
-| Urban Panthers Rescue | California | 204 | 2025-10-03 | 257 |
-| LiFeline Cat Rescue | Ohio | 200 | 2025-07-24 | 328 |
-| Conquer The Colony | Pennsylvania | 176 | 2026-03-02 | 107 |
-| Ocooch Mountain Humane Society | Wisconsin | 155 | 2025-08-15 | 306 |
+| Toledo Humane Society | Ohio | 1105 | 2025-06-03 | 378 |
+| Full of Cattitude | Florida | 550 | 2026-02-17 | 119 |
+| Pet Pride of NY | New York | 356 | 2025-07-11 | 340 |
+| Little Mews Rescue | Michigan | 307 | 2026-02-14 | 122 |
+| Heavenly Paws Shelter, Inc | Pennsylvania | 263 | 2025-02-08 | 493 |
+| Three Little Pitties | Texas | 213 | 2025-08-01 | 319 |
+| Urban Panthers Rescue | California | 204 | 2025-10-03 | 256 |
+| LiFeline Cat Rescue | Ohio | 200 | 2025-07-24 | 327 |
+| Conquer The Colony | Pennsylvania | 176 | 2026-03-02 | 106 |
+| Ocooch Mountain Humane Society | Wisconsin | 155 | 2025-08-15 | 305 |
 
 ## Never activated — onboarding targets (live, 0 invites in either channel)
 - Las Vegas Rescue Center (Nevada)
@@ -139,20 +139,20 @@ _…and 21 more (full list on the dashboard)._
 ## Monthly trend — all channels (completed months)
 | Month | Online inv | QR inv | Total inv | Online red | QR red | Total red |
 |---|--:|--:|--:|--:|--:|--:|
-| 2025-06 | 601 | 18 | 619 | 129 | 0 | 129 |
-| 2025-07 | 450 | 5 | 455 | 107 | 2 | 109 |
-| 2025-08 | 415 | 334 | 749 | 101 | 6 | 107 |
-| 2025-09 | 451 | 223 | 674 | 28 | 23 | 51 |
+| 2025-06 | 617 | 18 | 635 | 129 | 0 | 129 |
+| 2025-07 | 434 | 5 | 439 | 107 | 2 | 109 |
+| 2025-08 | 420 | 334 | 754 | 102 | 6 | 108 |
+| 2025-09 | 446 | 223 | 669 | 27 | 23 | 50 |
 | 2025-10 | 349 | 187 | 536 | 58 | 20 | 78 |
-| 2025-11 | 300 | 173 | 473 | 72 | 26 | 98 |
-| 2025-12 | 255 | 315 | 570 | 65 | 39 | 104 |
-| 2026-01 | 430 | 277 | 707 | 70 | 33 | 103 |
-| 2026-02 | 331 | 159 | 490 | 58 | 33 | 91 |
-| 2026-03 | 194 | 157 | 351 | 55 | 36 | 91 |
+| 2025-11 | 301 | 188 | 489 | 72 | 26 | 98 |
+| 2025-12 | 278 | 300 | 578 | 65 | 40 | 105 |
+| 2026-01 | 407 | 277 | 684 | 71 | 32 | 103 |
+| 2026-02 | 342 | 159 | 501 | 57 | 35 | 92 |
+| 2026-03 | 182 | 157 | 339 | 55 | 34 | 89 |
 | 2026-04 | 285 | 212 | 497 | 37 | 27 | 64 |
 | 2026-05 | 282 | 593 | 875 | 36 | 23 | 59 |
 
-_Current month 2026-06 is in progress (through 2026-06-17) and excluded from the figures above: 117 online + 21 QR invites so far._
+_Current month 2026-06 is in progress (through 2026-06-16) and excluded from the figures above: 116 online + 21 QR invites so far._
 
 ## Program costs
 | Cost | To date | Basis |
@@ -170,11 +170,11 @@ _Cost assumptions (editable): litter bags fill 20 lb ($5.94) then a 10 lb ($3.36
 ## Invite channels — Online vs QR (all-time)
 | Channel | Invites | Redeemed | Redemption rate | Active since |
 |---|--:|--:|--:|---|
-| Online (emailed adopter codes) | 10,096 | 1,803 | 17.9% | 2024-09 |
+| Online (emailed adopter codes) | 10,095 | 1,803 | 17.9% | 2024-09 |
 | QR (printed/scanned codes) | 2,693 | 292 | 10.8% | 2025-03 |
-| **Total** | **12,789** | **2,095** | **16.4%** | — |
+| **Total** | **12,788** | **2,095** | **16.4%** | — |
 
 Online invites redeem at roughly **1.7x** the rate of QR invites.
 
 ---
-*Generated by analytics/build.mjs from catalystpet.cvasossyi9za.eu-west-1.rds.amazonaws.com:5432/catalyst. Reporting month = most recent completed calendar month. Cat-count figures are estimates parsed from self-reported registration ranges and should be treated as approximate.*
+*Generated by analytics/build.mjs from localhost:5433/catalyst. Reporting month = most recent completed calendar month. Cat-count figures are estimates parsed from self-reported registration ranges and should be treated as approximate.*
