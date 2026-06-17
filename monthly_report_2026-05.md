@@ -117,7 +117,7 @@ _Current month 2026-06 is in progress (through 2026-06-16) and excluded from the
 | Donations (redemptions) | $40,559 | 2,095 redemptions · @ $19.36 ($3.36 bag + $16 ship) |
 | **Total program cost** | **$116,275** | over ~19.3 months · 35% donations / 65% litter |
 
-- **Litter run-rate:** $5,192/month (~$62,304/yr) across 118 active subscriptions
+- **Total run-rate: ~$6,091/month (~$73,092/yr)** — based on actual recent activity: litter $4,439/mo (~85 real shipments/mo) + donations $1,652/mo
 - **Fully-loaded cost per redemption:** $55.5  ·  **Cost per cat enrolled:** $11.52
 - **Subscription coverage:** 85 of 119 live shelters have an active free-litter subscription (34 do not). Subscribed shelters are not smaller — they are ~2.6× more active (avg invites).
 
