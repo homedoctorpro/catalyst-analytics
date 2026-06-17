@@ -12,6 +12,50 @@
 - **Cats adopted in 2026 (YTD, online enrollments):** 1,614
 - **All-time invites:** 12,788 (10,095 online + 2,693 QR) · 2,095 redeemed
 - **Estimated cats at live shelters:** ~7,052 (from 115/119 reporting ranges)
+- **⚠ Worst offenders:** 12 shelters have received $300+ of free litter but send few/no invites (see section below). Separately, 13 live shelters have sent **0 invites ever** while consuming ~$10,052 of free litter.
+
+## ⚠ Worst offenders — high litter, few invites
+Live shelters that have received **$300+ of free litter** but are sending little or nothing back. Ranked by litter dollars burned per invite generated (shelters with **0 invites** rank first). These are the priority calls — re-engage them, or pause the shipments.
+
+| Shelter | State | Shipments | Litter $ | Invites | Redeemed | Litter $/invite | Sub |
+|---|---|--:|--:|--:|--:|--:|---|
+| Cynthia Pena | Texas | 69 | $3,641 | 0 | 0 | ∞ (0 invites) | — |
+| Nothin’ But Love Cat & Kitten Rescue | Nevada | 33 | $1,741 | 0 | 0 | ∞ (0 invites) | active |
+| Sticky the Kitty Foundation | Oregon | 21 | $1,108 | 0 | 0 | ∞ (0 invites) | — |
+| Las Vegas Valley Humane Society | Nevada | 20 | $1,055 | 0 | 0 | ∞ (0 invites) | active |
+| Las Vegas Rescue Center | Nevada | 15 | $792 | 0 | 0 | ∞ (0 invites) | active |
+| Chalky's Cat Crusade | Florida | 8 | $422 | 0 | 0 | ∞ (0 invites) | — |
+| Painted Rain Ranch Animal Sanctuary | Washington | 7 | $369 | 0 | 0 | ∞ (0 invites) | active |
+| Ellas Feline Rescue Mission | Massachusetts | 5 | $350 | 0 | 0 | ∞ (0 invites) | active |
+| Only Kindness Rescue | New Jersey | 45 | $2,375 | 3 | 0 | $792 | active |
+| House of Second Chances Animal Rescue | Nevada | 21 | $1,108 | 2 | 0 | $554 | — |
+| Animal Refuge Center, Inc. | Kentucky | 9 | $475 | 1 | 1 | $475 | — |
+| CataHome Feline Sanctuary | Wisconsin | 21 | $1,108 | 4 | 1 | $277 | active |
+
+_"∞" = received litter but has sent zero invites. A subscribed shelter here is still being shipped litter every cycle for no program return._
+
+## 💸 Costing money, producing nothing — last 90 days
+36 live shelters were **shipped litter in the last 90 days** but sent **zero invites** in the last 90 days — **~$1,674/month (~$20,088/yr)**, about 38% of litter spend. 6 have **never** sent a single invite. Pause or cut candidates.
+
+| Shelter | State | Bag | Ships (90d) | $/mo | Last invite |
+|---|---|--:|--:|--:|---|
+| Three Little Pitties | Texas | 70 lb | 3 | $63 | 2025-08-01 |
+| Animal Shelter and Care of Jefferson County | Montana | 60 lb | 3 | $58 | 2025-09-10 |
+| Happy Hills Animal Foundation, Inc. | North Carolina | 60 lb | 3 | $58 | 2025-01-02 |
+| Las Vegas Valley Humane Society | Nevada | 50 lb | 3 | $53 | never |
+| LiFeline Cat Rescue | Ohio | 50 lb | 3 | $53 | 2025-07-24 |
+| Stray Cat Relief Fund | Pennsylvania | 50 lb | 3 | $53 | 2025-08-26 |
+| Kindred Tails Sanctuary | Georgia | 50 lb | 3 | $53 | 2025-11-12 |
+| No Boundaries Cat Adoption | New Jersey | 50 lb | 3 | $53 | 2025-09-23 |
+| Orphaned Kitty Corner | Illinois | 50 lb | 3 | $53 | 2025-11-02 |
+| Little Mews Rescue | Michigan | 50 lb | 3 | $53 | 2026-02-14 |
+| The Toebean Cat Cafe | Virginia | 50 lb | 3 | $53 | 2025-04-01 |
+| Only Maine Coons Rescue | New Jersey | 50 lb | 3 | $53 | 2026-02-27 |
+| Little Big Paws | California | 50 lb | 3 | $53 | 2026-01-19 |
+| Hold Em Paws Rescue | Florida | 50 lb | 3 | $53 | 2026-03-03 |
+| Urban Panthers Rescue | California | 50 lb | 3 | $53 | 2025-10-03 |
+
+_…and 21 more (full list on the dashboard)._
 
 ## Top online-invite shelters — 2026-05
 | Shelter | State | Online invites | Redeemed | Rate |
